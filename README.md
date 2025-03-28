@@ -1,4 +1,4 @@
 # second-project
 This is my first repository
 <br>
-Author Nikita Maurya
+Author Nikita (Dayashanker Maurya)
